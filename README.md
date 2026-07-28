@@ -131,15 +131,15 @@ Draw Labels and Bounding Boxes
 
 ### Original Image
 
-![Original](screenshots/original.png)
+![Original](screenshots/Original.png)
 
 ### Threshold Image
 
-![Threshold](screenshots/threshold.png)
+![Threshold](screenshots/Threshold.png)
 
 ### Final Output
 
-![Output](screenshots/result.png)
+![Output](screenshots/Result.png)
 
 ---
 
